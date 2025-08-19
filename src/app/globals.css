@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+
 /* Dark theme base */
 :root { color-scheme: dark; }
 
