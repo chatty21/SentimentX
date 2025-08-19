@@ -1,0 +1,182 @@
+[
+  {
+    "ticker": "CHGG",
+    "sector": "Technology",
+    "sentiment": "Neutral",
+    "summary": "Chegg's options imply a significant move in share price after earnings, but the sentiment is neutral as the direction of the move is not specified.",
+    "id": "7a60d0ad-fc75-4b01-b980-282b403617de",
+    "timestamp": "2025-08-06T20:28:44.477180",
+    "raw_text": "Chegg options imply 23.0% move in share price post-earnings"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Neutral",
+    "summary": "The text discusses a Federal Reserve report on the relationship between wealth distribution and consumer spending, without expressing a positive or negative sentiment.",
+    "id": "e454af85-858f-4835-b7c1-91ea93159e95",
+    "timestamp": "2025-08-06T20:28:46.522807",
+    "raw_text": "FEDS Note: Wealth Heterogeneity and Consumer Spending"
+  },
+  {
+    "ticker": "None",
+    "sector": "Technology",
+    "sentiment": "Neutral",
+    "summary": "The text discusses the potential risks and challenges of AI, without a clear positive or negative sentiment.",
+    "id": "eedc81a7-2ec8-4445-a1e9-0e9b988ebe01",
+    "timestamp": "2025-08-06T20:28:48.424258",
+    "raw_text": "The Imitation Game: Defending against AI's Dark Side!"
+  },
+  {
+    "ticker": "None",
+    "sector": "Agriculture",
+    "sentiment": "Negative",
+    "summary": "News suggests Japan's rice policy has failed, which could negatively impact the agricultural sector.",
+    "id": "8300e720-6323-49f1-9305-df13ea3dbef9",
+    "timestamp": "2025-08-06T20:28:50.413920",
+    "raw_text": "Japan's Rice Strategy Fails"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Neutral",
+    "summary": "The text discusses an assessment of China's innovative capacity, without mentioning any specific companies or sectors.",
+    "id": "12f8995f-eac4-4f37-a089-345a7ab19dcb",
+    "timestamp": "2025-08-06T20:28:52.219396",
+    "raw_text": "FEDS Note: An Assessment of China's Innovative Capacity"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Positive",
+    "summary": "The article expresses a positive sentiment about the current state of America, suggesting that the country is recovering and the American people are aware of it.",
+    "id": "230dd0c6-ad1b-4448-a864-b0020a878989",
+    "timestamp": "2025-08-06T20:28:57.328565",
+    "raw_text": "JORGE MARTINEZ: America Is Back, And The American People Know It"
+  },
+  {
+    "ticker": "WMB",
+    "sector": "Energy",
+    "sentiment": "Positive",
+    "summary": "The CEO of Williams expects liquefied natural gas (LNG) to make up a significant portion of the US gas market, indicating growth potential for the company.",
+    "id": "b0466e3f-a3ca-4012-88ea-8b6e510a1280",
+    "timestamp": "2025-08-06T20:28:59.426300",
+    "raw_text": "Williams CEO Sees LNG Taking Up More Than 25% of US Gas Market"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Neutral",
+    "summary": "The text discusses a public figure but does not contain any clear financial information.",
+    "id": "9fc9a2a8-3fb5-4df4-81bd-ca09b8a3b2f1",
+    "timestamp": "2025-08-06T20:29:01.353931",
+    "raw_text": "WATCH: The Left Can\u2019t Seem to Cancel Sydney Sweeney"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Neutral",
+    "summary": "The text does not mention any specific financial information or tickers.",
+    "id": "39e201ef-d8e3-4a6d-a4f5-9acdf33f133d",
+    "timestamp": "2025-08-06T20:29:03.136360",
+    "raw_text": "Trump Won\u2019t Shut Up About TV"
+  },
+  {
+    "ticker": "None",
+    "sector": "Energy",
+    "sentiment": "Negative",
+    "summary": "Potential new sanctions on Russia's oil industry are causing uncertainty in the crude oil market.",
+    "id": "bc3aa337-e080-4361-a1f2-a1d1cfa02745",
+    "timestamp": "2025-08-06T20:29:05.018263",
+    "raw_text": "Crude Jittery As Trump Mulls New Sanctions On Russia's 'Shadow Fleet'"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Negative",
+    "summary": "Weak ISM services data caused stocks to trade lower in the final hour of the trading session.",
+    "id": "924f39af-2dcd-41e9-a8b8-f023ff353e84",
+    "timestamp": "2025-08-06T20:29:06.900391",
+    "raw_text": "Stocks trading lower in final hour after weak ISM services data \u2014 follow live"
+  },
+  {
+    "ticker": "None",
+    "sector": "Energy",
+    "sentiment": "Negative",
+    "summary": "Oil futures have declined for the fourth straight day, indicating a bearish sentiment in the energy market.",
+    "id": "ff37d504-de12-46e7-abbf-5bfc3adc5cf9",
+    "timestamp": "2025-08-06T20:29:08.796868",
+    "raw_text": "Oil Futures Fall for Fourth Consecutive Session"
+  },
+  {
+    "ticker": "None",
+    "sector": "Healthcare",
+    "sentiment": "Neutral",
+    "summary": "The text discusses the need for veterans to have their own dedicated healthcare record and system, without mentioning any specific companies or financial implications.",
+    "id": "26f26ea0-8336-4342-9343-1578cc6c4e24",
+    "timestamp": "2025-08-06T20:29:10.949236",
+    "raw_text": "Why veterans need their own health care record and system"
+  },
+  {
+    "ticker": "None",
+    "sector": "Real Estate",
+    "sentiment": "Negative",
+    "summary": "Sellers in a Florida city are delisting their homes faster than anywhere else, indicating a weakening housing market.",
+    "id": "c1653a0e-d269-41e3-a631-28f9f7044813",
+    "timestamp": "2025-08-06T20:29:12.992316",
+    "raw_text": "Here\u2019s why sellers in this Florida city are delisting their homes faster than anywhere else in the nation"
+  },
+  {
+    "ticker": "None",
+    "sector": "Technology",
+    "sentiment": "Negative",
+    "summary": "The article expresses concern about the AI industry potentially being in a bubble that is artificially propping up the US economy.",
+    "id": "4ee84e6e-bac3-48ae-adc5-818a16658731",
+    "timestamp": "2025-08-06T20:29:15.001323",
+    "raw_text": "The AI bubble is so big it's propping up the US economy (for now)"
+  },
+  {
+    "ticker": "VSAT",
+    "sector": "Technology",
+    "sentiment": "Neutral",
+    "summary": "ViaSat options imply a potential 10.8% move in share price after earnings, indicating investor uncertainty.",
+    "id": "3829cc42-f92b-42bc-a75b-3e5f278db880",
+    "timestamp": "2025-08-06T20:29:17.140437",
+    "raw_text": "ViaSat options imply 10.8% move in share price post-earnings"
+  },
+  {
+    "ticker": "None",
+    "sector": "Consumer Discretionary",
+    "sentiment": "Positive",
+    "summary": "The article highlights a new product that brings luxury cocktails to consumers, which could increase demand and sales.",
+    "id": "bdf6b2a7-87da-4fcc-8ec5-3bc7b2903687",
+    "timestamp": "2025-08-06T20:29:19.291588",
+    "raw_text": "PurFix brings luxury cocktails to your everyday moments"
+  },
+  {
+    "ticker": "None",
+    "sector": "Technology",
+    "sentiment": "Positive",
+    "summary": "Figure plans to launch an IPO for its blockchain-based lending platform, indicating growth and investor interest in the fintech space.",
+    "id": "4ba63398-74e4-4f00-8c1f-1c526d990664",
+    "timestamp": "2025-08-06T20:29:21.241298",
+    "raw_text": "Figure Plans IPO for Blockchain-Based Lending Platform"
+  },
+  {
+    "ticker": "None",
+    "sector": "Unknown",
+    "sentiment": "Neutral",
+    "summary": "The text discusses tips to reduce electricity bills through TV settings adjustments, but does not mention any specific companies or sectors.",
+    "id": "e873a0c8-b8f3-4020-86fe-08311b044533",
+    "timestamp": "2025-08-06T20:29:23.192365",
+    "raw_text": "Changing these 5 TV settings greatly reduced my electricity bill - here's why"
+  },
+  {
+    "ticker": "AMZN",
+    "sector": "Technology",
+    "sentiment": "Neutral",
+    "summary": "The article compares the new Amazon Fire TV Stick 4K Max 2nd Gen to the previous 1st Gen model, without making a strong positive or negative recommendation on whether to upgrade.",
+    "id": "ba6b666c-28b3-4a0e-93bc-8f37fb591541",
+    "timestamp": "2025-08-06T20:29:25.206867",
+    "raw_text": "How Amazon Fire TV Stick 4K Max 2nd Gen Compares To 1st Gen: Should You Upgrade?"
+  }
+]
