@@ -1,6 +1,7 @@
-// sentimentx-ui/postcss.config.js
-module.exports = {
-    plugins: {
-      '@tailwindcss/postcss': {},
-    },
-  };
+// postcss.config.js
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
